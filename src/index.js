@@ -4,7 +4,7 @@ import Expenses from "./routes/expenses/expenses";
 import Invoices from "./routes/invoices/invoices";
 import "./index.css";
 import App from "./App";
-import NoMatch from "./routes/nomatch/nomatch";
+import NoMatch from "./routes/nomatch/Nomatch";
 import Invoice from "./components/Invoice/Invoice";
 import InvoiceBlank from "./components/Invoice/InvoiceBlank";
 import Home from "./routes/home/home";

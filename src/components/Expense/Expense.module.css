@@ -2,8 +2,9 @@
   background-color: #ffffff;
   margin-left: 20px;
   height: 450px;
-  width: 300px;
+  width: 400px;
   display: flex;
+  align-items: center;
   justify-content: center;
   flex-direction: column;
   color: #3d405b;
